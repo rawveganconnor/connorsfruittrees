@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>videos</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<body>
+<img src="https://png.pngtree.com/png-clipart/20230914/original/pngtree-mango-tree-vector-png-image_12155397.png" alt="cartoon mango tree" width="200" height="200">
+<h3>connor's fruit trees</h3>
+<h2>videos</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Cj7aqyJ66Y?si=5ZF1q8W76qehbeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hxERs2KHULg?si=4lhp2ZcbdKuboXKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yaWVflQolmM?si=ksvIfOHcg3iJQnTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>

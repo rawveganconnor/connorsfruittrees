@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>videos</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+<body>
+<img src="https://png.pngtree.com/png-clipart/20230914/original/pngtree-mango-tree-vector-png-image_12155397.png" alt="cartoon mango tree" width="200" height="200">
+<h3>connor's fruit trees</h3>
+<h2>vines</h2>
+<img src="https://shop-static.arborday.org/media/0004950_catawba-grape-vine.jpeg" alt="cartoon mango tree" width="150" height="150">
+<h4>grapes</h4>
+<img src="https://www.thespruce.com/thmb/fghCcR0Sv_lrSIg1mVWS9U-b_ts=/4002x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-watermelons-1403491-hero-2d1ce0752fed4ed599db3ba3b231f8b7.jpg" alt="cartoon mango tree" width="150" height="150">
+<h4>watermelon</h4>
+<img src="https://i.redd.it/wtbb41ktjdgb1.jpg" alt="cartoon mango tree" width="150" height="150">
+<h4>cantaloupe</h4>
+<img src="https://victoryseeds.com/cdn/shop/files/Melon-Honey-Dew-Green-Flesh-91-2.jpg?v=1696522041" alt="cartoon mango tree" width="150" height="150">
+<h4>honeydew</h4>
+<img src="https://images.immediate.co.uk/production/volatile/sites/10/2018/03/2048x1365-Best-strawberries-to-grow-LI1834878-9b05a14.jpg?quality=90&crop=9px,11px,2031px,1354px&resize=940,627" alt="cartoon mango tree" width="150" height="150">
+<h4>strawberries</h4>
+<img src="https://www.bhg.com/thmb/BjEm1xPt59WU5HQoo0zjfKIzOZI=/4000x0/filters:no_upscale():strip_icc()/blueberries2-2d04a586adb64443ba9056bc2ae47191.jpg" alt="cartoon mango tree" width="150" height="150">
+<h4>blueberries</h4>
+<img src="https://www.raspberryblackberry.com/wp-content/uploads/2023/08/NARBA-berry-facts-picking-blackberries-fully-ripe-agriberry-farm.jpg" alt="cartoon mango tree" width="150" height="150">
+<h4>blackberries</h4>
+<img src="https://images.squarespace-cdn.com/content/v1/5c5445685239586b37f65f78/1588193454265-7EKH6A6UQ2TC217PZC8R/raspberries_istock_63062937_large_small.jpg" alt="cartoon mango tree" width="150" height="150">
+<h4>raspberries</h4>
+<img src="https://cropsandsoils.extension.wisc.edu/files/2023/09/elderberries.jpeg" alt="cartoon mango tree" width="150" height="150">
+<h4>elderberries</h4>
+<img src="https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/09/goji-berry-berries-1296x728-header.jpg?w=1155&h=1680" alt="cartoon mango tree" width="150" height="150">
+<h4>goji berries</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_WxLDukjYoVBIzFIsCcS-bMffNh5uMr4n5b5JUmfx2g&s" alt="cartoon mango tree" width="150" height="150">
+<h4>tomatoes</h4>
+<img src="https://www.bhg.com/thmb/IH_7MhxQc431xaacsB5EtuvAr-w=/2000x0/filters:no_upscale():strip_icc()/marketer-cucumber-60e158aa-c3f14f3be8a74d1a98b3a57e589a3e84.jpg" alt="cartoon mango tree" width="150" height="150">
+<h4>cucumbers</h4>
+</body>
+</html>
